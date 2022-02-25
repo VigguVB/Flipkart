@@ -72,7 +72,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: relative;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);   
 }
@@ -116,7 +116,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     position: absolute;
     visibility: hidden;
-    z-index: 10;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);   
 }
@@ -203,7 +203,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: relative;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -238,7 +238,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -272,7 +272,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -307,7 +307,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -341,7 +341,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -374,7 +374,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -407,7 +407,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -440,7 +440,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -473,7 +473,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -506,7 +506,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -539,7 +539,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -572,7 +572,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -605,7 +605,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: relative;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -641,7 +641,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);  
 }
@@ -673,7 +673,7 @@ body{
     box-shadow: 2px 2px 10px hsla(0, 0%, 0%, 0.781);
     visibility: hidden;
     position: absolute;
-    z-index: 35;
+    z-index: 100;
     border-radius: 4px;
     color: hsla(0, 0%, 0%, 0.918);   
 }
