@@ -22,7 +22,7 @@ function loginHandler() {
   var accountlist = document.getElementsByClassName('accountHoverDiv');
   if (a === "LOGIN") {
     accountlist[0].style.display = "none"
-  }else if (a==="My Account"){
+  } else if (a === "My Account") {
     accountlist[0].style.display = "block"
 
   }
@@ -37,7 +37,6 @@ function loginClicked() {
     document.getElementById('marquee').style.display = "none";
     document.body.style.backgroundColor = "rgba(0, 0, 0, 0.75)"
   }
-  console.log("Hi")
 }
 function validateLogin() {
   let username = document.getElementById("enteredUser").value;
@@ -46,28 +45,33 @@ function validateLogin() {
   var a = document.getElementById('loginName').innerText;
   var accountlist = document.getElementsByClassName('accountHoverDiv');
   var formSubmit = document.getElementById('form');
-  formSubmit.addEventListener('submit', (event)=>{
+  formSubmit.addEventListener('submit', (event) => {
     event.preventDefault();
-})
+  })
 
   if (username === "9900262848" && password === "Vignesh") {
-    formSubmit.addEventListener('submit', (event)=>{
+    formSubmit.addEventListener('submit', (event) => {
       event.preventDefault();
-  })
+    })
     loginModal.style.display = "none";
     document.body.style.backgroundColor = "white";
     document.getElementById('marquee').style.display = "none";
     document.getElementById('loginName').innerText = "My Account";
     accountlist[0].style.display = "block";
-    console.log(a.innerHTML)
   } else if (username.trim() === "" || password.trim() === "") {
     alert('UserName or Password Must not be Empty');
-    console.log("second")
-
-  } else if(username !== "9900262848" || password !== "Vignesh") {
+  } else if (username !== "9900262848" || password !== "Vignesh") {
     alert("Invalid Credentials");
-    console.log("third")
 
   }
 
+}
+
+const closeModal = () => {
+  var loginModal = document.getElementById("loginModal");
+  var accountlist = document.getElementsByClassName('accountHoverDiv');
+  loginModal.style.display = "none";
+  accountlist[0].style.display = "block";
+  document.body.style.backgroundColor = "white";
+  document.getElementById('marquee').style.display = "block";
 }
