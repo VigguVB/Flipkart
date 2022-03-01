@@ -1413,6 +1413,8 @@ strike{
             margin-left: 7%;
         }
 } 
+
+
 @media only screen and (max-width: 390px){
     #name {
         margin-left: 4%;
@@ -1464,4 +1466,53 @@ strike{
         margin-left: 7%;
     }
 }
+ 
 
+ @media only screen and (max-width: 985px){
+    #name {
+        margin-left: 6%;
+    }
+    #tagname{
+        margin-left: 8%;
+    }
+    #searchdiv{
+        margin-top: -4.5%;
+        margin-left: 18%;
+    }
+    #searchbar{
+        width: 420px;
+    }
+    #account {
+        margin-left: 65%;
+        margin-top: -3.6%;
+    }
+    #more {
+        margin-left: 75%;
+        margin-top: -4.3%;
+    }
+    #cart {
+        margin-left: 83.5%;
+        margin-top: -3.5%;
+    }
+    #modecontainer {
+        width: 99px;
+        margin-left: 40%;
+        margin-top: -28%;
+    }
+    .quicksearch{
+        padding-left: 0%;
+        height: 120px;
+    }
+    .quickdiv {
+        margin-left: -2.5%;
+    }
+    .quickdiv>ul{
+        margin-top: 7.5%;
+    }
+    .dealitemsContainer {
+        height: 380px;
+    }
+    .list1{
+        margin-left: 7%;
+    }
+ }
