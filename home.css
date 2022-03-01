@@ -42,7 +42,7 @@ body{
     color: #2874f0;
     margin-left: -5%;
 }
-.nav{
+/* .nav{
     width: 500px;
     height: 45px;
     float: left;
@@ -51,12 +51,16 @@ body{
     color: white;
     font-size: 17px;
     font-weight: bold;
-}
+} */
 
 #account{
-    margin-top: 2.2%;
+    margin-top: -2.4%;
     height: 42px;
-    width: fit-content;
+    margin-left: 60% ;
+    float: left;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;  
 }
 
 .accountHoverDiv{
@@ -92,10 +96,13 @@ body{
     color: #2874f0;
 }
 #more{
-    margin-top: -8.5%;
+    margin-top: -2.9%;
     float: left;
-    margin-left: 35%;
-    height: 42px;
+    margin-left: 70%;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    height: 40px;
 }
 #more:hover .moreHoverDiv{
     visibility: visible;
@@ -133,9 +140,12 @@ body{
 }
 #cart{
     color: white;
-    margin-top: -8.8%;
-    float: left;
-    margin-left: 60%;
+    margin-top: -2.6%;
+    color: white;
+    font-size: 17px;
+    font-weight: bold;
+    height: 40px;
+    margin-left: 79%;
 }
 #modecontainer{
     width: 200px;
@@ -169,6 +179,7 @@ body{
     height: 130px;
     box-shadow: inset 2px 2px 16px 0px #000000d3;
     padding-left: 1%;
+    
 }
 .quickdiv{
     width: 145px;
@@ -1117,6 +1128,7 @@ body{
     width: 100%;
     margin-top: 1%;
     margin-bottom: 1%;
+    
 }
 .containerHeader{
     width: 99%;
@@ -1149,6 +1161,7 @@ body{
     margin-bottom: 1%;
     border-bottom: 0.5px rgba(128, 128, 128, 0.911);
     height: 400px;
+    
 
 }
 .dealitem{
@@ -1274,73 +1287,129 @@ strike{
 /* Resposnive */
 
 
-@media only screen and (max-width: 1470px) {
-    body {
-        width: 100%;
-        margin: auto;
+@media only screen and (max-width: 1490px) {
+    .dealitemsContainer{
+        display: flex;
     }
-
+    .dealitem{
+        height: 340px;
+    }
   }
-  @media only screen and (max-width: 1366px) {
-    #searchdiv {
-        float: left;
-        margin-left: 20%;
-        margin-top: -3.2%;
-    }
-    .nav{
-        margin-top: -3.4%;
+  
+  @media only screen and (max-width: 1425px) {
+   .quicksearch{
+    display: flex;
+   }
+   #cart{
+       margin-top: -2.5%;
+   }
+   #more{
+       margin-top: -3%;
+   }
+  }
+  @media only screen and (max-width: 1380px) {
+   #account{
+       margin-left: 65%;
+   }
+   #more{
+       margin-left: 74%;
+       margin-top: -3.15%;
+   }
+   #cart{
+       margin-left: 82%;
+   }
+   #modecontainer {
+    margin-left: 39%;
+    margin-top: -19%;
+}
+  } 
+  @media only screen and (max-width: 1305px){
+    #account{
+       margin-left: 67%; 
+       margin-top: -2.9%;
     }
     #more{
-        margin-left: 31%;
+       margin-left: 75%;
+       margin-top: -3.3%;
     }
     #cart{
-        margin-left: 58%;
+        margin-left: 82%;
+        margin-top: -3%;
     }
-    .quickdiv {
-        width: 140px;
-        height: 110px;
-        float: left;
-        margin-top: 0.5%;
-        margin-left: 0.5%;
-        margin-right: 0;
+    #modecontainer {
+       margin-left: 37%;
+        margin-top: -19%;
     }
-    .dealitem {
-        width: 203px;
-        height: 325px;
-        box-shadow: 1px 2px 8px rgb(0 0 0 / 84%);
-        margin: 0.9%;
-        margin-top: 2%;
-        float: left;
+    #searchdiv{
+        margin-top: -3.5%;
+    }
+    .quickdiv{
+        width: 130px;
+    }
+    .quickdiv>ul{
+        margin-top: 6%;
+    }
+    .quickdiv>ul>li{
+        display: flex;
+    }
+    .dealitemsContainer{
+        height: 750px;
+        width: 100%;
+    }
+    .dealitem{
+        width: 350px; 
+    }
   }
-  @media only screen and (max-width: 1300px) {
-   #name{
-       margin-left: 9%;
-   }
-   #tagname{
-    margin-left: 11%;
-}
-#searchdiv {
-    margin-left: 18%;
-}
-#more{
-    margin-left: 27%;
-}
-#cart{
-    margin-left: 53%;
-}
-.quickdiv{
-    width: 130px;
-}.dealitemsContainer {
-    height: 800px;
-}.dealitem {
-    width: 382px;
-    height: 325px;
-    box-shadow: 1px 2px 8px rgb(0 0 0 / 84%);
-    margin: 1.9%;
-    margin-top: 2%;
-    float: left;
-}
-
-  }
-}
-  
+    @media only screen and (max-width: 390px) {
+        #name {
+            margin-left: 4%;
+        }
+        #tagname{
+            margin-left: 5%;
+        }
+        #searchdiv{
+            margin-top: -4.5%;
+            margin-left: 17%;
+        }
+        #searchbar{
+            width: 405px
+        }
+        #account {
+            margin-top: -3.5%;
+            margin-left: 63%;
+        }
+        #more {
+            margin-top: -4.4%;
+            margin-left: 73%;
+        }
+        #cart {
+            margin-top: -3.7%;
+            margin-left: 82%;
+        }
+        #modecontainer {
+            margin-left: 40%;
+            margin-top: -25%;
+        }
+        .quicksearch {
+            height: 215px;
+        }
+        .quickdiv {
+            width: 147px;
+            float: left;
+            margin-left: 3.5%;
+            margin-right: 0.5%;
+        }
+        .quickdiv>ul {
+            margin-top: 6%;
+        }
+        .dealitemsContainer {
+            height: 730px;
+        }
+        .dealitem{
+            width: 305px;
+            height: 330px;
+        }
+        .list1{
+            margin-left: 7%;
+        }
+} 
