@@ -1287,7 +1287,7 @@ strike{
 /* Resposnive */
 
 
-@media only screen and (max-width: 1490px) {
+ @media only screen and (max-width: 1490px) {
     .dealitemsContainer{
         display: flex;
     }
@@ -1360,7 +1360,7 @@ strike{
         width: 350px; 
     }
   }
-    @media only screen and (max-width: 390px) {
+    @media only screen and (max-width: 320px) {
         #name {
             margin-left: 4%;
         }
@@ -1413,3 +1413,55 @@ strike{
             margin-left: 7%;
         }
 } 
+@media only screen and (max-width: 390px){
+    #name {
+        margin-left: 4%;
+    }
+    #tagname{
+        margin-left: 5%;
+    }
+    #searchdiv{
+        margin-top: -4%;
+        margin-left: 15%;
+    }
+    #searchbar{
+        width: 360px;
+    }
+    #account {
+        margin-top: -3.5%;
+        margin-left: 58%;
+    }
+    #more {
+        margin-top: -4.3%;
+        margin-left: 69%;
+    }
+    #cart{
+        margin-top: -3.5%;
+    }
+    #modecontainer {
+        margin-left: 45%;
+        margin-top: -21%;
+    }
+    .quicksearch{
+        height: 220px;
+    }
+    .quickdiv {
+        width: 155px;
+        margin-left: 1.5%;
+        margin-right: 1.2%;
+    }
+    .quickdiv>ul{
+        margin-top: 7%;
+    }
+    .dealitemsContainer {
+        height: 730px;
+    }
+    .dealitem{
+        width: 305px;
+        height: 330px;
+    }
+    .list1{
+        margin-left: 7%;
+    }
+}
+
