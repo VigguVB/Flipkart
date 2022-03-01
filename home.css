@@ -2,12 +2,7 @@ body{
     width: 100%;
     font-family: Arial,sans-serif;
     margin: 0;
-    padding: 0; 
-    border: 0; 
-    outline: 0; 
-    font-size: 100%; 
-    vertical-align: baseline; 
-    background-color: #8080804d;
+
 }
 .headerdiv{
     width: 100%;
@@ -176,7 +171,7 @@ body{
     padding-left: 1%;
 }
 .quickdiv{
-    width: 150px;
+    width: 145px;
     height: 110px;
     float: left;
     margin-top: 0.5%;
@@ -1275,3 +1270,73 @@ strike{
     text-align: center;
     padding-top: 1.5%;
 }
+
+/* Resposnive */
+
+
+@media screen and (max-width: 1470px) {
+    body {
+        width: 100%;
+        margin: auto;
+    }
+      .dealitemsContainer{
+       overflow-x: scroll;
+    
+    }
+  }
+  @media screen and (max-width: 1400px) {
+    body {
+      background-color: rgb(204, 231, 84);
+    }
+  }
+  @media screen and (max-width: 1300px) {
+    body {
+      background-color: rgb(98, 238, 180);
+    }
+  }
+  @media screen and (max-width: 1200px) {
+    body {
+      background-color: #5588ca;
+    }
+  }
+  @media screen and (max-width: 1000px) {
+    body {
+      background-color: rgb(204, 101, 144);
+    }
+  }
+  @media screen and (max-width: 480px) {
+    body {
+      width: 130%;
+      margin: auto;
+    }
+    .quicksearch{
+        height: max-content;
+    }
+    .quickdiv{
+        display: flex;
+    }
+    #name{
+        color: white;
+        font-size: 18px;
+        font-weight: bold;
+        margin-left: 4%;
+        margin-top: 0.3%;
+    }
+    #account{
+        margin-top: 0.5%;
+        height: 42px;
+        width: fit-content;
+    }
+    #more{
+        margin-top: -12.5%;
+        float: left;
+        margin-left: 20%;
+        height: 42px;
+    }
+    #cart{
+        color: white;
+        margin-top: -12.8%;
+        float: left;
+        margin-left: 50%;
+    }
+  }
