@@ -1274,14 +1274,14 @@ strike{
 /* Resposnive */
 
 
-@media screen and (max-width: 1470px) {
+@media only screen and (max-width: 1470px) {
     body {
         width: 100%;
         margin: auto;
     }
 
   }
-  @media screen and (max-width: 1366px) {
+  @media only screen and (max-width: 1366px) {
     #searchdiv {
         float: left;
         margin-left: 20%;
@@ -1312,7 +1312,7 @@ strike{
         margin-top: 2%;
         float: left;
   }
-  @media screen and (max-width: 1300px) {
+  @media only screen and (max-width: 1300px) {
    #name{
        margin-left: 9%;
    }
