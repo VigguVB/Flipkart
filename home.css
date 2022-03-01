@@ -1279,64 +1279,68 @@ strike{
         width: 100%;
         margin: auto;
     }
-      .dealitemsContainer{
-       overflow-x: scroll;
-    
-    }
+
   }
-  @media screen and (max-width: 1400px) {
-    body {
-      background-color: rgb(204, 231, 84);
-    }
-  }
-  @media screen and (max-width: 1300px) {
-    body {
-      background-color: rgb(98, 238, 180);
-    }
-  }
-  @media screen and (max-width: 1200px) {
-    body {
-      background-color: #5588ca;
-    }
-  }
-  @media screen and (max-width: 1000px) {
-    body {
-      background-color: rgb(204, 101, 144);
-    }
-  }
-  @media screen and (max-width: 480px) {
-    body {
-      width: 130%;
-      margin: auto;
-    }
-    .quicksearch{
-        height: max-content;
-    }
-    .quickdiv{
-        display: flex;
-    }
-    #name{
-        color: white;
-        font-size: 18px;
-        font-weight: bold;
-        margin-left: 4%;
-        margin-top: 0.3%;
-    }
-    #account{
-        margin-top: 0.5%;
-        height: 42px;
-        width: fit-content;
-    }
-    #more{
-        margin-top: -12.5%;
+  @media screen and (max-width: 1366px) {
+    #searchdiv {
         float: left;
         margin-left: 20%;
-        height: 42px;
+        margin-top: -3.2%;
+    }
+    .nav{
+        margin-top: -3.4%;
+    }
+    #more{
+        margin-left: 31%;
     }
     #cart{
-        color: white;
-        margin-top: -12.8%;
-        float: left;
-        margin-left: 50%;
+        margin-left: 58%;
     }
+    .quickdiv {
+        width: 140px;
+        height: 110px;
+        float: left;
+        margin-top: 0.5%;
+        margin-left: 0.5%;
+        margin-right: 0;
+    }
+    .dealitem {
+        width: 203px;
+        height: 325px;
+        box-shadow: 1px 2px 8px rgb(0 0 0 / 84%);
+        margin: 0.9%;
+        margin-top: 2%;
+        float: left;
   }
+  @media screen and (max-width: 1300px) {
+   #name{
+       margin-left: 9%;
+   }
+   #tagname{
+    margin-left: 11%;
+}
+#searchdiv {
+    margin-left: 18%;
+}
+#more{
+    margin-left: 27%;
+}
+#cart{
+    margin-left: 53%;
+}
+.quickdiv{
+    width: 130px;
+}.dealitemsContainer {
+    height: 800px;
+}.dealitem {
+    width: 382px;
+    height: 325px;
+    box-shadow: 1px 2px 8px rgb(0 0 0 / 84%);
+    margin: 1.9%;
+    margin-top: 2%;
+    float: left;
+}
+
+  }
+}
+  
