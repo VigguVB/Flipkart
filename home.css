@@ -1900,7 +1900,7 @@ strike{
         height: 132px;
     }
     .quickdiv {
-        margin-left: 2%;
+        margin-left: 2.5%;
     }
     .quickdiv>ul{
         margin-top: 7%;
@@ -1913,7 +1913,7 @@ strike{
         display: inline-block;
     }
     .dealitem{
-        width: 310px;
+        width: 305px;
     }
     .list1{
         margin-left: 8%;
