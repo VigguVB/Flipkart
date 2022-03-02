@@ -1900,7 +1900,8 @@ strike{
         height: 132px;
     }
     .quickdiv {
-        margin-left: 2.5%;
+        margin-left:-2.5%;
+        margin-top: 2.5%;
     }
     .quickdiv>ul{
         margin-top: 7%;
