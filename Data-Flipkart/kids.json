@@ -1,0 +1,29 @@
+[
+    {
+        "id": 51,
+        "name": "Kids wear",
+        "category_id": 7,
+        "new_price": 299,
+        "old_price": 399,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/J3RKCmr/kids-tops-250x250.jpg"
+    },
+    {
+        "id": 52,
+        "name": "Kids wear",
+        "category_id": 7,
+        "new_price": 299,
+        "old_price": 359,
+        "offer": "15% Off",
+        "image": "https://i.ibb.co/2ZCR9tj/th-18.jpg"
+    },
+    {
+        "id": 53,
+        "name": "Kids wear combo",
+        "category_id": 7,
+        "new_price": 999,
+        "old_price": 1299,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/gPdHSCW/th-19.jpg"
+    }
+]

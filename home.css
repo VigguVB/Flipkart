@@ -1690,7 +1690,20 @@ strike{
     text-align: center;
     padding-top: 1.5%;
 }
+a{
+    text-decoration: none;
+    
+}
+#cartContainer{
+    width: 80%;
+    height: 500px;
+    margin-left: 10%;
+    box-shadow: inset 2px 2px 10px black;
+}
 
+marquee{
+    z-index: -50;
+}
 /* Resposnive */
 
 

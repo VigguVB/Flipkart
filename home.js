@@ -84,3 +84,8 @@ const closeModal = () => {
 function closeCoupon(){
   document.getElementById("coupon").style.display = "none"
 }
+
+
+
+
+

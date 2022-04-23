@@ -1,0 +1,52 @@
+[
+    {
+        "id": 6,
+        "name": "RealMe 9 Pro",
+        "category_id": 2,
+        "new_price": 19999,
+        "old_price": 21999,
+        "offer": "10% Off",
+        "color": "Blue",
+        "image": "https://i.ibb.co/WGq718Y/Realme-9-Pro-represent-460x460.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Redmi note 4",
+        "category_id": 2,
+        "new_price": 11999,
+        "old_price": 13999,
+        "offer": "15% Off",
+        "color": "Black",
+        "image": "https://i.ibb.co/WBZd3PW/4519-thickbox-default.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Samsung Galaxy A31",
+        "category_id": 2,
+        "new_price": 20999,
+        "old_price": 22999,
+        "offer": "10% Off",
+        "color": "Prism Blue",
+        "image": "https://i.ibb.co/MydQvpQ/th-4.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Oppo F17 Pro",
+        "category_id": 2,
+        "new_price": 19999,
+        "old_price": 21999,
+        "offer": "11% Off",
+        "color": "Matte Black",
+        "image": "https://i.ibb.co/F58CQfP/oppo-F17-pro-Matte-Black-5.jpg"
+    },
+    {
+        "id": 10,
+        "name": "One Plus 9 Pro",
+        "category_id": 2,
+        "new_price": 60999,
+        "old_price": 64999,
+        "offer": "8% Off",
+        "color": "Blue",
+        "image": "https://i.ibb.co/D1F50Pp/Oneplus-9-Pro.jpg"
+    }
+]

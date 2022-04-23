@@ -1,0 +1,92 @@
+[
+    {
+        "id": 41,
+        "name": "Women Cotton Silk Saree",
+        "category_id": 6,
+        "new_price": 799,
+        "old_price": 899,
+        "offer": "15% Off",
+        "image": "https://i.ibb.co/5c7nkvh/91-JEE-y-Upr-L.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Women Cotton Silk Saree",
+        "category_id": 6,
+        "new_price": 799,
+        "old_price": 899,
+        "offer": "15% Off",
+        "image": "https://i.ibb.co/tZcZRnP/c7d1b0f050a82063b5ba02464da13bc7.jpg"
+    },
+    {
+        "id": 43,
+        "name": "Women Wedding Saree",
+        "category_id": 6,
+        "new_price": 3599,
+        "old_price": 4799,
+        "offer": "14% Off",
+        "image": "https://i.ibb.co/3cy3x8H/s-l1600.jpg"
+    },
+    {
+        "id": 44,
+        "name": "Women Saree Kanjeevaram Wedding",
+        "category_id": 6,
+        "new_price": 6999,
+        "old_price": 7999,
+        "offer": "10% Off",
+        "image": "https://i.ibb.co/cx63J4m/561d19485627d87e46107b5750cb14e1.jpg"
+    },
+    {
+        "id": 45,
+        "name": "Women Sport T Shirt",
+        "category_id": 6,
+        "new_price": 599,
+        "old_price": 659,
+        "offer": "10% Off",
+        "image": "https://i.ibb.co/vY4yXcN/Nitrite-Assorted-Sports-Sleeveless-Women-SDL659878859-2-5ba21.jpg"
+    },
+    {
+        "id": 46,
+        "name": "Women Kurta Stylish",
+        "category_id": 6,
+        "new_price": 399,
+        "old_price": 499,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/HKpbMhr/th-17.jpg"
+    },
+    {
+        "id": 47,
+        "name": "Glow Fashion Kurta Women",
+        "category_id": 6,
+        "new_price": 359,
+        "old_price": 399,
+        "offer": "11% Off",
+        "image": "https://i.ibb.co/Tvzgbzy/71-V2x-Jdufn-L-UL1500.jpg"
+    },
+    {
+        "id": 48,
+        "name": "Women Cotton Nighty",
+        "category_id": 6,
+        "new_price": 250,
+        "old_price": 300,
+        "offer": "22% Off",
+        "image": "https://i.ibb.co/Vv8DXDM/115-GZ-1388992745.jpg"
+    },
+    {
+        "id": 49,
+        "name": "Women Casual Shirt",
+        "category_id": 6,
+        "new_price": 599,
+        "old_price": 799,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/dcV3Hjy/multicolor-checked-casual-shirt.jpg"
+    },
+    {
+        "id": 50,
+        "name": "Women Tops",
+        "category_id": 6,
+        "new_price": 499,
+        "old_price": 699,
+        "offer": "18% Off",
+        "image": "https://i.ibb.co/WWQSBzg/4911b7ec-90ba-40be-a70d-3682a5341cbb-90135d550433d03873ee3574046ed73c.jpg"
+    }
+]

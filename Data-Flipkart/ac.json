@@ -1,0 +1,47 @@
+[
+    {
+        "id": 11,
+        "name": "ONIDA Air Conditioner",
+        "category_id": 3,
+        "new_price": 27000,
+        "old_price": 30000,
+        "offer": "10% Off",
+        "image": "https://i.ibb.co/hd2H6xg/Onida-Trendy-Nova-SA185-TDN-1-5-Ton-Split-AC.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Voltas Air Conditioner",
+        "category_id": 3,
+        "new_price": 27500,
+        "old_price": 30000,
+        "offer": "9% Off",
+        "image": "https://i.ibb.co/bzBHyF5/Split-AC10.png"
+    },
+    {
+        "id": 13,
+        "name": "LG Air Cooler",
+        "category_id": 3,
+        "new_price": 20999,
+        "old_price": 22999,
+        "offer": "10% Off",
+        "image": "https://i.ibb.co/cbLFyz1/dan-lanh-casette-multi-lg-amnc24gtta0-2-5hp-inverter-1.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Voltas Air Conditioner",
+        "category_id": 3,
+        "new_price": 29000,
+        "old_price": 32000,
+        "offer": "10% Off",
+        "image": "https://i.ibb.co/6sn3qNt/th-5.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Onida Air Conditioner",
+        "category_id": 3,
+        "new_price": 15999,
+        "old_price": 18999,
+        "offer": "18% Off",
+        "image": "https://i.ibb.co/zVg5FDS/Onida-18-Ton-D2-1-5-Ton-Window-AC.jpg"
+    }
+]

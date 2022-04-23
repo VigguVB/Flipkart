@@ -1,0 +1,47 @@
+[
+    {
+        "id": 16,
+        "name": "Teddy Bear",
+        "category_id": 4,
+        "new_price": 400,
+        "old_price": 500,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/Dr4GdQ3/Teddy-Bear-Orange.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Organ Toddler Bus for Kids",
+        "category_id": 4,
+        "new_price": 1499,
+        "old_price": 1999,
+        "offer": "25% Off",
+        "image": "https://i.ibb.co/xm7xkWw/th-6.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Full Little Toys Train",
+        "category_id": 4,
+        "new_price": 3999,
+        "old_price": 4999,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/vdwwVch/th-7.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Cute Barbie Doll",
+        "category_id": 4,
+        "new_price": 799,
+        "old_price": 1000,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/871FZCh/th-8.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Cosmetic Play Set Kids",
+        "category_id": 4,
+        "new_price": 1299,
+        "old_price": 1500,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/7gStcZv/2015-Hot-Item-Cosmetic-Toys-Fashion-Dresser-Toys-Role-Play-Girl-s-Toy-Beauty-Makeup-Set-Pink-Childre.jpg"
+    }
+]

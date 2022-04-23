@@ -1,0 +1,29 @@
+[
+    {
+        "id": 54,
+        "name": "Boat Rockerz Wired Earphone",
+        "category_id": 8,
+        "new_price": 599,
+        "old_price": 659,
+        "offer": "10% Off",
+        "image": "https://i.ibb.co/w62Pc32/bo-At-Rockerz-230-Sports-In-SDL740090144-4-02090.jpg"
+    },
+    {
+        "id": 55,
+        "name": "JBL Noise Cancelling Headphone",
+        "category_id": 8,
+        "new_price": 4999,
+        "old_price": 5999,
+        "offer": "13% Off",
+        "image": "https://i.ibb.co/265Yn1w/61-Ed-Lc-JVv-RL-SL1000.jpg"
+    },
+    {
+        "id": 56,
+        "name": "JBL Portable Speaker",
+        "category_id": 8,
+        "new_price": 999,
+        "old_price": 799,
+        "offer": "20% Off",
+        "image": "https://i.ibb.co/52cK7Tb/980615b0-0822-4d19-9671-3f901ebd5429-1-d176034e624332c1a07794b1e9524cf8.png"
+    }
+]

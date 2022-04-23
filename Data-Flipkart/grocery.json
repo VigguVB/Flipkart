@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Pillsbury Chakki Fresj Atta",
+        "category_id": 1,
+        "new_price": 419,
+        "old_price": 500,
+        "offer": "16% Off",
+        "quantity": "10kg",
+        "image": "https://i.ibb.co/NSgYtXH/chakkiatta.webp"
+    },
+    {
+        "id": 2,
+        "name": "Super Rice Bran Oil",
+        "category_id": 1,
+        "new_price": 159,
+        "old_price": 199,
+        "offer": "20% Off",
+        "quantity": "1 L",
+        "image": "https://i.ibb.co/HPL7N1H/th-1.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Meri Masala Maggi",
+        "category_id": 1,
+        "new_price": 60,
+        "old_price": 75,
+        "offer": "20% Off",
+        "quantity": "350 g",
+        "image": "https://i.ibb.co/WckG3KL/th-2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "India Gate Basmathi Rice",
+        "category_id": 1,
+        "new_price": 180,
+        "old_price": 150,
+        "offer": "17% Off",
+        "quantity": "1 kg",
+        "image": "https://i.ibb.co/nkJYYqP/730408.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Kellog's Corn Flakes",
+        "category_id": 1,
+        "new_price": 60,
+        "old_price": 70,
+        "offer": "16% Off",
+        "quantity": "1 Kg",
+        "image": "https://i.ibb.co/Gk3W6Nn/th-3.jpg"
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "id": 57,
+        "name": "HP Laptops",
+        "category_id": 9,
+        "new_price": 46999,
+        "old_price": 49999,
+        "offer": "8% Off",
+        "image": "https://i.ibb.co/nnCwwXB/th-20.jpg"
+    },
+    {
+        "id": 58,
+        "name": "Dell laptops",
+        "category_id": 9,
+        "new_price": 44999,
+        "old_price": 47999,
+        "offer": "8% Off",
+        "image": "https://i.ibb.co/pv07Bfh/337171-dell-inspiron-14r-5437-1.jpg"
+    },
+    {
+        "id": 59,
+        "name": "Lenovo Laptops",
+        "category_id": 9,
+        "new_price": 49999,
+        "old_price": 52999,
+        "offer": "7% Off",
+        "image": "https://i.ibb.co/nRs5z7b/lenovo-81mv00mbus-ideapad-s145-celeron-4205u-1542747.jpg"
+    },
+    {
+        "id": 60,
+        "name": "Asus Laptops",
+        "category_id": 9,
+        "new_price": 41999,
+        "old_price": 44999,
+        "offer": "9% Off",
+        "image": "https://i.ibb.co/TgWWzFk/asus-x555la-db51-i5-4210u-1-7g-8gb-1tb-windows8-1-64-15-6-black-1067793.jpg"
+        
+    }
+]
